@@ -1,0 +1,14 @@
+{
+  "name": "log-wa-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index > output.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smooch-core": "^8.7.3"
+  }
+}
